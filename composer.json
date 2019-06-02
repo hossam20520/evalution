@@ -1,0 +1,29 @@
+{
+    "name": "anubis/anubis",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hossam hassan",
+            "email": "hossamhassan889@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.1",
+        "phroute/phroute": "1.*",
+     "nezamy/route": "^1.2",
+     "seeds/seeds": "^1.0",
+        "necropolis/core": "^3.0",
+        "facebook/graph-sdk": "^5.7",
+        "swiftmailer/swiftmailer": "^6.2" 
+    },
+
+    "autoload": {
+        
+        "psr-4": {
+            "App\\": "./App"
+          
+        
+        }
+    }
+}

@@ -1,0 +1,53 @@
+.edit{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float:right;
+  border:none;
+  background-color: #18b4ff;
+  width: 50px;
+  color: white;
+}
+
+.titles{
+  margin-top: 5px;
+  color: #90949c;
+ 
+}
+
+.save{
+  background-color: #73bb56;
+}
+
+
+
+.cont:hover{
+  background: #f5f6f7;
+}
+.edit-field , .edit-button{
+  display: none;
+}
+
+
+.edit-button{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float:right;
+  border:none;
+  background-color: #63c598;
+  width: 50px;
+  color: white;
+}
+
+.confirm{
+  display:none;
+}
+
+.conf{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float:right;
+  border:none;
+  background-color: #63c598;
+  width: 50px;
+  color: white;
+}
